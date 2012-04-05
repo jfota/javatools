@@ -1,5 +1,7 @@
 #
-#  Source this file. drPepper0
+#  Source this file.
+#  If this is Git, then "drPepper0".
+#  If this is Hudson, then "hudson".
 #
 export ANT_HOME=/usr/local/ant
 export M2_HOME=/usr/local/maven
